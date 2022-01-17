@@ -2,6 +2,10 @@
 
 this is a basic login system created in C++ for linux OS machines, this is not anything good for protection just a fun project in linux you can also see that I have created a sleep function do with that as you will.
 
+Note: the register system does not work properly but you can fix this very easily (don't define strings) and write then and grab from a text file.
+
+if you would like me to fix this and make this a proper login system in linux let me know.
+
 ---
 
 ### How to compile 
